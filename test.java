@@ -5,5 +5,6 @@ public class test {
         System.out.println("Hello World!3");
         System.out.println("Hello World!hot-fix");
         System.out.println("Hello World!master");
+        System.out.println("冲突合并演示 master");
     }
 }
